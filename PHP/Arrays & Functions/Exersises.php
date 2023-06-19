@@ -47,7 +47,7 @@ $longestString = longestStringInArray($array, $index);
 echo "Ex2: What is Longest string in array [" . implode(',', $array) . "] ?  \n $longestString in index $index\n---------------------\n";
 
 
-/* Exercise 3 => Write a function that accepts 2 arrays and return a new array that holds the value of
+/* Exercise 3 => Write a function that accepts 2 Arrays & Functions and return a new array that holds the value of
 multiplying each item in the first array by the corresponding item in the second array.*/
 
 $array_numbers1 = array(1, 9, 10);
