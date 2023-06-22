@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="056b9362-1f75-4873-a428-24d94ecb54b1" name="Changes" comment="&quot;Arrays&quot;" />
+    <list default="true" id="056b9362-1f75-4873-a428-24d94ecb54b1" name="Changes" comment="&quot;Arrays &amp; functions&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/Training_GSG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/Exercise/Course.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/Exercise/Loggable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/Exercise/Manager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/Exercise/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/Exercise/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/NameSpace/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/NameSpace/namespace.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/NameSpace/namespaceB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/Trait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/classes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Objects &amp; Classes/objects.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +41,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/Training_GSG/PHP/functions&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/Training_GSG/PHP/Objects &amp; Classes/NameSpace&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -35,11 +54,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\Training_GSG\PHP\functions" />
+      <recent name="C:\xampp\htdocs\Training_GSG\PHP\Objects &amp; Classes\NameSpace" />
+      <recent name="C:\xampp\htdocs\Training_GSG\PHP\Objects &amp; Classes" />
+      <recent name="C:\xampp\htdocs\Training_GSG\PHP\Objects &amp; Classes\Exercise" />
       <recent name="C:\xampp\htdocs\Training_GSG\PHP\arrays" />
-      <recent name="D:\PHP Exercises\Lect2\Basic PHP" />
+      <recent name="C:\xampp\htdocs\Training_GSG\PHP\functions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Training_GSG\PHP\Objects &amp; Classes\NameSpace" />
+      <recent name="C:\xampp\htdocs\Training_GSG\PHP\Objects &amp; Classes\Exercise" />
       <recent name="C:\xampp\htdocs\Training_GSG\PHP" />
     </key>
   </component>
@@ -74,7 +97,18 @@
       <workItem from="1687119770414" duration="617000" />
       <workItem from="1687161351538" duration="2163000" />
       <workItem from="1687165113237" duration="6718000" />
+      <workItem from="1687184799232" duration="403000" />
+      <workItem from="1687335370227" duration="9213000" />
+      <workItem from="1687462950786" duration="1369000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Arrays &amp; functions&quot;">
+      <created>1687184954828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687184954828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Arrays&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Arrays&quot;" />
+    <MESSAGE value="&quot;Arrays &amp; functions&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Arrays &amp; functions&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -105,5 +140,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
